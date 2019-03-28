@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row text-center mt-3">
             <div class="col-sm-12" style="margin-bottom: 10px;">
-                <button type="submit" class="btn btn-secondary" onclick="kembali()"> << Back to Form </button>
+                <button type="submit" class="btn btn-secondary"> << Back to Form </button>
             </div>
             <div class="col-sm-12">
                 <h5>Luas Kamar adalah: </h5>
